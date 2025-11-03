@@ -1,0 +1,40 @@
+body{
+    background-image: url("../web/about.png");
+}
+form{
+    background-color: rgb(95, 144, 96);
+    padding: 16px;
+    margin: auto;
+    border-radius:30px ;
+    box-shadow: 0 0 23;
+    
+}
+p{
+    color: rgb(37, 194, 209);
+    font-size: x-large;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(85, 165, 6);
+    color: rgb(84, 84, 50);
+    border-radius: 20px;
+    width: 40%;
+    height: 40px;
+    margin: auto;
+    display: block;
+}
+input[id=name],input[id=password],input[id=email],input[id=phone]{
+    width: 50%;
+    height: 25px;
+    border-radius: 5px;
+    
+}
+input:hover{
+    background-color: rgb(126, 27, 151);
+}
+input{
+    background-color:rgb(150, 150, 118);
+}
+select{
+    background-color: rgb(117, 181, 15);
+}

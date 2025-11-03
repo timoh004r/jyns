@@ -1,0 +1,37 @@
+body{
+    
+}
+h1{
+    text-align:center;
+    color:green;
+
+}
+    
+#heading1{
+    font-size:40px;
+    color:blue;
+}
+.para{
+    font-style:italic
+
+    
+}
+#vip{
+    display:flex;
+    padding:30px;
+    background-color: aquamarine;
+    margin:35px;
+    border-radius:8%   
+
+}
+#vip:hover{
+    background-color:brown
+}
+#vip img{
+    margin-right:30px
+}
+#sur{
+    display:flex;
+    padding:34px
+    
+}

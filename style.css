@@ -1,0 +1,31 @@
+body{
+    color: rgb(45, 19, 101);
+    font-family: Arial, sans-serif;
+    background-color: pale beige;
+    margin: 20px;
+    context-align: right;
+    
+}
+tr,th,td,table{
+    border: 2px solid rgb(45, 19, 101);
+    border-collapse: collapse;
+    padding: 10px; 
+}
+th{
+    color:green;
+    background-color:rgb(44, 125, 123)
+}
+button{
+    background-color:rgb(67, 16, 64)
+
+}
+button:hover{
+    color:aqua
+}
+tr:hover{
+    background-color: aquamarine
+}
+h1{
+    color:green;
+    u
+}
