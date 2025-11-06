@@ -1,0 +1,32 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #d3d1d1;
+}
+.card{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.field{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+button{
+    padding: 6px 8px;
+    background-color: rgb(63, 63, 168);
+    color: white;
+    border: nine;
+}
